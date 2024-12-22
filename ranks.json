@@ -1,0 +1,23 @@
+[
+  {"name": "Noob", "xpRequired": 0},
+  {"name": "Beginner", "xpRequired": 1000},
+  {"name": "Novice", "xpRequired": 5000},
+  {"name": "Apprentice", "xpRequired": 15000},
+  {"name": "Adept", "xpRequired": 50000},
+  {"name": "Expert", "xpRequired": 100000},
+  {"name": "Master", "xpRequired": 250000},
+  {"name": "Grandmaster", "xpRequired": 500000},
+  {"name": "Legend", "xpRequired": 1000000},
+  {"name": "Mythical", "xpRequired": 2500000},
+  {"name": "Demigod", "xpRequired": 5000000},
+  {"name": "God", "xpRequired": 10000000},
+  {"name": "Titan", "xpRequired": 25000000},
+  {"name": "Cosmic Entity", "xpRequired": 50000000},
+  {"name": "Omnipotent", "xpRequired": 100000000},
+  {"name": "you really like rolling", "xpRequired": 20000000},
+  {"name": "okay when do you stop", "xpRequired": 40000000},
+  {"name": "roll roll roll...", "xpRequired": 80000000},
+  {"name": "got anything good?", "xpRequired": 160000000},
+  {"name": "RNGod", "xpRequired": 320000000},
+  {"name": "HOW", "xpRequired": 640000000}
+]

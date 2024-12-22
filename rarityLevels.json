@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Common",
+    "baseMax": 50000000000,
+    "max": 50000000000,
+    "color": "#cccccc",
+    "points": 0.05
+  },
+  {
+    "name": "Uncommon",
+    "baseMax": 70000000000,
+    "max": 70000000000,
+    "color": "#00cc00",
+    "points": 0.1
+  },
+  {
+    "name": "Rare",
+    "baseMax": 85000000000,
+    "max": 85000000000,
+    "color": "#0000ff",
+    "points": 2
+  },
+  {
+    "name": "Epic",
+    "baseMax": 95000000000,
+    "max": 95000000000,
+    "color": "#cc00cc",
+    "points": 3.4
+  },
+  {
+    "name": "Legendary",
+    "baseMax": 98000000000,
+    "max": 98000000000,
+    "color": "#ffaa00",
+    "points": 3.5
+  },
+  {
+    "name": "Mythic",
+    "baseMax": 99500000000,
+    "max": 99500000000,
+    "color": "#ff0000",
+    "points": 4
+  },
+  {
+    "name": "Divine",
+    "baseMax": 99900000000,
+    "max": 99900000000,
+    "color": "#ffffff",
+    "points": 6
+  },
+  {
+    "name": "Cosmic",
+    "baseMax": 99990000000,
+    "max": 99990000000,
+    "color": "#00ffff",
+    "points": 8
+  },
+  {
+    "name": "Transcendent",
+    "baseMax": 99999000000,
+    "max": 99999000000,
+    "color": "#ff00ff",
+    "points": 15
+  },
+  {
+    "name": "Omnipotent",
+    "baseMax": 99999500000,
+    "max": 99999500000,
+    "color": "#ffff00",
+    "points": 7500
+  },
+  {
+    "name": "Godlike",
+    "baseMax": 99999700000,
+    "max": 99999700000,
+    "color": "#ff4500",
+    "points": 10000
+  },
+  {
+    "name": "Insanity",
+    "baseMax": 99999800000,
+    "max": 99999800000,
+    "color": "#8a2be2",
+    "points": 15000
+  },
+  {
+    "name": "Unheard",
+    "baseMax": 99999900000,
+    "max": 99999900000,
+    "color": "#7fffd4",
+    "points": 25000
+  },
+  {
+    "name": "Mystical",
+    "baseMax": 99999950000,
+    "max": 99999950000,
+    "color": "#ff69b4",
+    "points": 50000
+  },
+  {
+    "name": "Epsilon",
+    "baseMax": 99999970000,
+    "max": 99999970000,
+    "color": "#00fa9a",
+    "points": 75000
+  },
+  {
+    "name": "Unfathomable",
+    "baseMax": 99999980000,
+    "max": 99999980000,
+    "color": "#ff6347",
+    "points": 100000
+  },
+  {
+    "name": "what",
+    "baseMax": 99999985000,
+    "max": 99999985000,
+    "color": "#40e0d0",
+    "points": 150000
+  },
+  {
+    "name": "how",
+    "baseMax": 99999990000,
+    "max": 99999990000,
+    "color": "#daa520",
+    "points": 200000
+  },
+  {
+    "name": "crazy",
+    "baseMax": 99999993000,
+    "max": 99999993000,
+    "color": "#4b0082",
+    "points": 250000
+  },
+  {
+    "name": "almighty",
+    "baseMax": 99999995000,
+    "max": 99999995000,
+    "color": "#228b22",
+    "points": 300000
+  },
+  {
+    "name": "woah",
+    "baseMax": 99999997000,
+    "max": 99999997000,
+    "color": "#15d66f",
+    "points": 325000
+  },
+  {
+    "name": "Sensational",
+    "baseMax": 99999998000,
+    "max": 99999998000,
+    "color": "#cf9e67",
+    "points": 1000000
+  },
+  {
+    "name": "Unbelievable",
+    "baseMax": 99999999000,
+    "max": 99999999000,
+    "color": "#1e90ff",
+    "points": 15000000
+  },
+  {
+    "name": "Impossible",
+    "baseMax": 99999999500,
+    "max": 99999999500,
+    "color": "#ff1493",
+    "points": 50000000
+  },
+  {
+    "name": "Beyond Reality",
+    "baseMax": 99999999800,
+    "max": 99999999800,
+    "color": "#7cfc00",
+    "points": 60000000
+  },
+  {
+    "name": "Quantum",
+    "baseMax": 99999999900,
+    "max": 99999999900,
+    "color": "#9400d3",
+    "points": 69000000
+  },
+  {
+    "name": "Singularity",
+    "baseMax": 99999999950,
+    "max": 99999999950,
+    "color": "#00ced1",
+    "points": 75000000
+  },
+    {
+    "name": "Infinite",
+    "baseMax": 99999999980,
+    "max": 99999999980,
+    "color": "#ffd700",
+    "points": 80000000
+  },
+  {
+    "name": "Eternity",
+    "baseMax": 99999999990,
+    "max": 99999999990,
+    "color": "#b22222",
+    "points": 100000000
+  },
+  {
+    "name": "Beyond Eternity",
+    "baseMax": 99999999995,
+    "max": 99999999995,
+    "color": "#4169e1",
+    "points": 100000000
+  },
+  {
+    "name": "Celestial",
+    "baseMax": 99999999998,
+    "max": 99999999998,
+    "color": "#e6e6fa",
+    "points": 150000000
+  },
+  {
+    "name": "Astral",
+    "baseMax": 99999999999,
+    "max": 99999999999,
+    "color": "#7b68ee",
+    "points": 200000000
+  },
+  {
+    "name": "Dimensional",
+    "baseMax": 100000000000,
+    "max": 100000000000,
+    "color": "#483d8b",
+    "points": 250000000
+  }
+]
